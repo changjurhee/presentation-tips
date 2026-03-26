@@ -2,4 +2,5 @@
 
 - [Tips in English](presentation-tips.md)
 - [Dicas em Português](presentation-tips_pt-BR.md)
+- [한국어](presentation-tips.ko.md)
 
